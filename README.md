@@ -1,2 +1,2 @@
-# SQL-Server-2025
-SQL Server 2025 Development Demo
+# Azure SQL Managed Instance Development
+Azure SQL Managed Instance Development
